@@ -1,9 +1,10 @@
 # http
 
-
 ## 第一部分
 
 - [介绍](./md-1/01.md)
+    - HTTP Status Code
+    - HTTP method
 
 - [HTTP协议基础及发展历史](./md-1/02.md)
     - 5层网络模型介绍
@@ -23,7 +24,7 @@
     - HTTP长连接
     - 数据协商
     - Redirect
-    -  CSP
+    - CSP
 
 - [Nginx代理以及面向未来的HTTP](./md-1/04.md)
     - Nginx安装和基础代理配置
@@ -33,16 +34,3 @@
     - HTTP2的优势和Nginx配置HTTP2的简单使用
 
 - [总结](./md-1/05.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
